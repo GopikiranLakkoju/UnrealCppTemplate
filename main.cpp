@@ -23,5 +23,4 @@ void structureMap()
     {
         std::cout << map.first << "\t" << map.second << std::endl;
     }
-    std::cout << mapDetails["Gopikiran"];    
 }
